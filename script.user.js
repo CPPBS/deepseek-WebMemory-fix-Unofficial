@@ -1,3 +1,5 @@
+// Copyright (c) 2026 CPPBS & planets-online[力大砖飞科技（韶关市）有限公司]
+// url planets-online.com
 // ==UserScript==
 // @name         deepseek内存溢出问题[临时解决方案]
 // @namespace    http://tampermonkey.net/
